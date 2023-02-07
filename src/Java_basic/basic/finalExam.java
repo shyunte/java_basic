@@ -1,4 +1,4 @@
-package Java_basic;
+package Java_basic.basic;
 
 public class finalExam {
     //인스턴스 final 필드 선언

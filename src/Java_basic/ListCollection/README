@@ -1,0 +1,8 @@
+싱글쓰레드 환경에서는 Vector, Arraylist 는 똑같다
+멀티쓰레드에서는 Vector 를 사용하는게 안전하다.
+
+Vector ArrayList 둘다 써본 결과
+ArrayList83개가 유실됐다
+
+
+linkedList 는  array index 추가 제거할때 성능이 좋음

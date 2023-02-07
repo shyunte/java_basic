@@ -1,4 +1,4 @@
-package Java_basic;
+package Java_basic.basic;
 
 // java.util 속 scanner를 임포트함
 import java.util.Scanner;

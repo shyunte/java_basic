@@ -1,4 +1,4 @@
-package Java_basic;
+package Java_basic.basic;
 
 public class copyArray {
     public static void main(String[] args) {

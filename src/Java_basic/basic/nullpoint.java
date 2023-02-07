@@ -1,4 +1,4 @@
-package Java_basic;
+package Java_basic.basic;
 
 public class nullpoint {
     public static void main(String[] args) {
