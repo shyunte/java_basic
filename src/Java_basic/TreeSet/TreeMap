@@ -1,0 +1,41 @@
+
+compareTo( O o)
+
+
+
+Public class Person implements Comparable<Person>{
+    public String name;
+    public int age;
+
+public Person(String name, int age){
+    this.name = name;
+    this.age = age;
+
+@override
+public int compareTo(Person o){
+    if(age<o.age_ return) -1;
+    else if(age == o.age) return 0;
+    else return -1;
+    }
+  }
+
+=== Comparable 구현객체가 없을때 방법
+
+     생성자의 매게변수에 비교자를 제공해 주면된다.
+
+    TreeSet<E> treeSet = new TreeSet<E>(new ComparatorImpl() );
+                                             비교자
+    TreeMap<K, V> treeMap = new TreeMap<K,V> (new ComparatorImpl()  );
+
+
+**(예시
+        TreeSet<Fruit> treeSet = new TreeSet<Fruit>(new FruitComparator());
+
+        treeSet.add(new Fruit("포도", 3000));
+        treeSet.add(new Fruit("수박", 13000));
+        treeSet.add(new Fruit("딸기", 3000));
+
+        객체를 하나씩 가져옴
+       for(Fruit fruit : treeSet){
+       System.out.println(fruit.name + ";" + fruit.price);
+       }
