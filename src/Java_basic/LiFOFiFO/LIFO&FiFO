@@ -1,0 +1,11 @@
+LIFO
+ - 후입선출
+ - 쌓이는 구조 STACK Class
+ - push , pop
+ -응용한 예가 JVM
+ FIFO
+  - 선입선출
+  - Queue interface
+  - offer(넣기) , poll(빼기)
+  -응용한 예가 스레드풀
+

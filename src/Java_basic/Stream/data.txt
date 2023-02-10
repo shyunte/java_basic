@@ -1,0 +1,4 @@
+{"pno", "name":"상품", "company":"멋진 회사", "price": 1559}
+{"pno", "name":"상품", "company":"아이템베이 회사", "price": 15259}
+{"pno", "name":"상품", "company":"아이템매니아 회사", "price": 15559}
+{"pno", "name":"상품", "company":"멋진 회사", "price": 11559}

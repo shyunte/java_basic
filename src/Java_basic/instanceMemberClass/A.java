@@ -1,4 +1,4 @@
-package Java_basic.instanceMemberClas;
+package Java_basic.instanceMemberClass;
 
 public class A {
     int field;

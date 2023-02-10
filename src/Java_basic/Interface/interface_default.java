@@ -1,4 +1,4 @@
-package Java_basic.InterFace;
+package Java_basic.Interface;
 
 public interface interface_default {
 

@@ -10,7 +10,7 @@ public class ComparableExample {
         treeSet.add(new Fruit("수박", 13000));
         treeSet.add(new Fruit("딸기", 3000));
 
-        // 1객체를 하나씩 가져옴
+        // 객체를 하나씩 가져옴
         for (Fruit fruit : treeSet) {
             System.out.println(fruit.name + ";" + fruit.price);
 
