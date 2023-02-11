@@ -1,0 +1,3 @@
+static file 은 컨트롤러를 타지 않고 화면에 바로 쏴줌
+
+templates는 컨트롤러를 탐
